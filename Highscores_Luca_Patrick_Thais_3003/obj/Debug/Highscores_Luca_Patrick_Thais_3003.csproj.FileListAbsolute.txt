@@ -1,0 +1,6 @@
+c:\users\thais.dutra\documents\visual studio 2015\Projects\Highscores_Luca_Patrick_Thais_3003\Highscores_Luca_Patrick_Thais_3003\bin\Debug\Highscores_Luca_Patrick_Thais_3003.exe.config
+c:\users\thais.dutra\documents\visual studio 2015\Projects\Highscores_Luca_Patrick_Thais_3003\Highscores_Luca_Patrick_Thais_3003\obj\Debug\Highscores_Luca_Patrick_Thais_3003.csprojResolveAssemblyReference.cache
+c:\users\thais.dutra\documents\visual studio 2015\Projects\Highscores_Luca_Patrick_Thais_3003\Highscores_Luca_Patrick_Thais_3003\bin\Debug\Highscores_Luca_Patrick_Thais_3003.exe
+c:\users\thais.dutra\documents\visual studio 2015\Projects\Highscores_Luca_Patrick_Thais_3003\Highscores_Luca_Patrick_Thais_3003\bin\Debug\Highscores_Luca_Patrick_Thais_3003.pdb
+c:\users\thais.dutra\documents\visual studio 2015\Projects\Highscores_Luca_Patrick_Thais_3003\Highscores_Luca_Patrick_Thais_3003\obj\Debug\Highscores_Luca_Patrick_Thais_3003.exe
+c:\users\thais.dutra\documents\visual studio 2015\Projects\Highscores_Luca_Patrick_Thais_3003\Highscores_Luca_Patrick_Thais_3003\obj\Debug\Highscores_Luca_Patrick_Thais_3003.pdb
